@@ -1,1 +1,1 @@
-# Decouple-and-Couple_Learning_in_Multi-Modal_Brain_Tumor_Segmentation
+# Decouple-and-Couple Learning in Multi-Modal Brain Tumor Segmentation
